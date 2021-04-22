@@ -1,0 +1,195 @@
+Starting humidity is 49.4%, temperature is 20.3°C.
+Beginning heating sequence.
+Failed to retrieve temperature. Trying again.
+20.3°C, still heating up to 23°C, power is on.
+20.2°C, still heating up to 23°C, power is on.
+20.3°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+20.3°C, still heating up to 23°C, power is on.
+20.3°C, still heating up to 23°C, power is on.
+20.3°C, still heating up to 23°C, power is on.
+20.4°C, still heating up to 23°C, power is on.
+20.4°C, still heating up to 23°C, power is on.
+20.5°C, still heating up to 23°C, power is on.
+20.5°C, still heating up to 23°C, power is on.
+20.5°C, still heating up to 23°C, power is on.
+20.6°C, still heating up to 23°C, power is on.
+20.6°C, still heating up to 23°C, power is on.
+20.6°C, still heating up to 23°C, power is on.
+20.6°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+20.6°C, still heating up to 23°C, power is on.
+20.7°C, still heating up to 23°C, power is on.
+20.8°C, still heating up to 23°C, power is on.
+20.8°C, still heating up to 23°C, power is on.
+20.9°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+20.9°C, still heating up to 23°C, power is on.
+21.0°C, still heating up to 23°C, power is on.
+21.0°C, still heating up to 23°C, power is on.
+21.0°C, still heating up to 23°C, power is on.
+21.1°C, still heating up to 23°C, power is on.
+21.1°C, still heating up to 23°C, power is on.
+21.1°C, still heating up to 23°C, power is on.
+21.1°C, still heating up to 23°C, power is on.
+21.2°C, still heating up to 23°C, power is on.
+21.2°C, still heating up to 23°C, power is on.
+21.2°C, still heating up to 23°C, power is on.
+21.2°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.3°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.4°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.4°C, still heating up to 23°C, power is on.
+21.4°C, still heating up to 23°C, power is on.
+21.5°C, still heating up to 23°C, power is on.
+21.5°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.5°C, still heating up to 23°C, power is on.
+21.6°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.6°C, still heating up to 23°C, power is on.
+21.6°C, still heating up to 23°C, power is on.
+21.6°C, still heating up to 23°C, power is on.
+21.6°C, still heating up to 23°C, power is on.
+21.7°C, still heating up to 23°C, power is on.
+21.7°C, still heating up to 23°C, power is on.
+21.7°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.7°C, still heating up to 23°C, power is on.
+21.7°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.7°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.7°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.7°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+21.8°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+21.9°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.0°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.1°C, still heating up to 23°C, power is on.
+22.2°C, still heating up to 23°C, power is on.
+22.2°C, still heating up to 23°C, power is on.
+22.3°C, still heating up to 23°C, power is on.
+22.4°C, still heating up to 23°C, power is on.
+22.5°C, still heating up to 23°C, power is on.
+22.6°C, still heating up to 23°C, power is on.
+22.7°C, still heating up to 23°C, power is on.
+22.8°C, still heating up to 23°C, power is on.
+Failed to retrieve temperature. Trying again.
+22.8°C, still heating up to 23°C, power is on.
+Target temperature of 23°C exceeded, current temperature is 23.1°C, shutting down.
+Shutdown successful, timing out for 10 minutes.
