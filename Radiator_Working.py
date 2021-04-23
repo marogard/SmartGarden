@@ -74,7 +74,7 @@ targetHum = 60
 
 temperature = getTemperature()
 humidity = getHumidity()
-logging.info("Starting humidity is "+ str(humidity) + "%, temperature is " + str(temperature) + "°C.")
+log("Starting humidity is "+ str(humidity) + "%, temperature is " + str(temperature) + "°C.")
 
 
 #Now actual loop for temperature management
